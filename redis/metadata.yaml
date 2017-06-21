@@ -1,0 +1,2 @@
+expose: 6000
+image_name: gaijin/redis

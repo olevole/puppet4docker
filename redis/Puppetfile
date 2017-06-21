@@ -1,0 +1,6 @@
+forge 'https://forgeapi.puppetlabs.com'
+
+mod 'arioch-redis', '1.2.4'
+mod 'puppetlabs/apt'
+mod 'puppetlabs/stdlib'
+mod 'stahnma/epel'
